@@ -1,11 +1,10 @@
 
-README.md
-knil_rednelb_pael
-
 This add-on is not functioning correctly and requires fixes or review before it can be used regularly.
 Pull requests (or other contributions) are welcome!
 
 <video src="demo.mp4" controls width="100%"></video>
+
+[元のツイートを見る](https://x.com/i/status/1992319194936099287)
 
 # Leap Motion to Blender Live Link
 [English](#english) | [日本語](#japanese)
