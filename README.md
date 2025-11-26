@@ -2,9 +2,7 @@
 This add-on is not functioning correctly and requires fixes or review before it can be used regularly.
 Pull requests (or other contributions) are welcome!
 
-<video src="demo.mp4" controls width="100%"></video>
-
-[元のツイートを見る](https://x.com/i/status/1992319194936099287)
+https://github.com/user-attachments/assets/4657fe5f-9b52-4fa8-b199-bbf7102106e6
 
 # Leap Motion to Blender Live Link
 [English](#english) | [日本語](#japanese)
